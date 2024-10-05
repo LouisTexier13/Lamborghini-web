@@ -1,0 +1,135 @@
+nav{
+    align-items: center;
+    background-color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;  
+    color:white;
+    margin: 0%;
+}
+.title{
+    color:white;
+    font-size: 3em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+header{
+text-align: center;
+background-color: goldenrod;
+margin-top: 0%;
+padding: 0.25%;
+
+}
+
+h1{
+    cursor: pointer;
+}
+
+h1:hover{
+    color: grey;
+    transition: background-color 0.5s ease;
+}
+
+
+#elements{
+    background-color: black;
+    margin-left: -10px;
+    margin-right: 900px;
+    
+    height: 720px;
+    color: white;
+    
+}
+.cars{
+    margin-left: 40px;
+    color:white;
+    line-height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.container{
+    margin-left: 610px;
+    margin-top: -620px;
+
+    
+}
+
+
+body{
+    background-color: black;
+    margin: 0%;
+}
+
+.Logo{
+    margin-left: 30px;
+    margin-top: -90px;
+}
+
+.hidden-image{
+    display:none;
+    transition: opacity 1s ease;
+}
+
+
+#urusText{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:white;
+    display: none
+    
+}
+#avantadorText{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:white;
+    display: none
+    
+}
+#h-stoText{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:white;
+    display: none
+    
+}
+#h-steText{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:white;
+    display: none
+    
+}
+#venenoText{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:white;
+    display: none
+    
+}
+#revueltoText{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:white;
+    display: none
+    
+}
+#h-evoText{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:white;
+    display: none
+    
+}
+
+#h-tecnicaText{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:white;
+    display: none
+    
+}
+
+
+
+
+
+
